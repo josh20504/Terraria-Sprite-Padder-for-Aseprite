@@ -1,3 +1,5 @@
+## Download
+[Download v1.0](https://github.com/josh20504/Terraria-Sprite-Padder-for-Aseprite/raw/v1.0/Terraria-sprite-padder.lua)
 # Terraria Sprite Padder for Aseprite
 A .lua script for use with Aseprite to help you pad your sprites for use as multi-tiles in a Terraria mod or Texture pack  
 Drag and drop this file into your Aseprite scripts folder, which can be easily accessed here:  
